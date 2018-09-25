@@ -1,5 +1,8 @@
 _repo: The-Philippine-Islands-1493-1898-Volume-L-Explorations-by-early-navigators-descriptions-of-th__57189
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57189-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Various
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '2297'
     url: http://www.gutenberg.org/2009/agents/2297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57189#The-Philippine-Islands-1493-1898-Volume-L-Explorations-by-early-navigators-descriptions-of-th_
 gutenberg_issued: '2018-05-20'
 gutenberg_type: Text
 identifiers:
