@@ -1,0 +1,42 @@
+_repo: The-Philippine-Islands-1493-1898-Volume-L-Explorations-by-early-navigators-descriptions-of-th__57189
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Blair, Emma Helen
+    deathdate: 1911
+    gutenberg_agent_id: '2296'
+    url: http://www.gutenberg.org/2009/agents/2296
+  - agent_name: Bourne, Edward Gaylord
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '5446'
+    url: http://www.gutenberg.org/2009/agents/5446
+  - agent_name: Robertson, James Alexander
+    alias: Robertson, J. A. (James Alexander)
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '2297'
+    url: http://www.gutenberg.org/2009/agents/2297
+description: ''
+gutenberg_issued: '2018-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "The Philippine Islands, 1493-1898; Volume L\r\nExplorations by early navigators,\
+  \ descriptions of the\r\nislands and their peoples, their history and records of\r\
+  \nthe catholic missions, as related in contemporaneous books\r\nand manuscripts,\
+  \ showing the political, economic, commercial\r\nand religious conditions of those\
+  \ islands from their\r\nearliest relations with European nations to the close of\r\
+  \nthe nineteenth century"
+url: http://www.gutenberg.org/ebooks/57189
